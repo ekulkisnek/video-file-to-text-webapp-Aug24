@@ -1,3 +1,12 @@
+172.31.196.48 - - [24/Jan/2025 20:52:52] "GET / HTTP/1.1" 200 -
+ * Debugger PIN: 720-537-748
+ * Debugger is active!
+ * Restarting with stat
+[33mPress CTRL+C to quit[0m
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.48:8080
 172.31.196.105 - - [29/Sep/2024 19:26:01] "GET / HTTP/1.1" 200 -
  * Debugger PIN: 780-221-138
  * Debugger is active!
